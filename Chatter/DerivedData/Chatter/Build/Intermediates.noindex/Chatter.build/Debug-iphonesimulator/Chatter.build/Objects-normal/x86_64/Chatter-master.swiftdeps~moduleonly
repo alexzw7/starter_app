@@ -1,9 +1,0 @@
-version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
-options: "e0da1a978f3c63051ac9fa204f648129"
-build_time: [1588501744, 766965000]
-inputs:
-  "/Users/alexwang/Desktop/starter_app/Chatter/Chatter/ChattTableCell.swift": [1588473708, 457794866]
-  "/Users/alexwang/Desktop/starter_app/Chatter/Chatter/ViewController.swift": [1588492009, 935336118]
-  "/Users/alexwang/Desktop/starter_app/Chatter/Chatter/AppDelegate.swift": [1588455387, 435777282]
-  "/Users/alexwang/Desktop/starter_app/Chatter/Chatter/Chatt.swift": [1588472343, 471631839]
-  "/Users/alexwang/Desktop/starter_app/Chatter/Chatter/SceneDelegate.swift": [1588455387, 439347743]
